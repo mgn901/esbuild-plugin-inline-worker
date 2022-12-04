@@ -14,11 +14,6 @@
   "license": "MIT",
   "type": "module",
   "main": "index.js",
-  "exports": {
-    ".": {
-      "import": "./index.js"
-    }
-  },
   "browser": "index.js",
   "types": "index.d.ts",
   "files": [
